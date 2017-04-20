@@ -15,4 +15,6 @@ If an error occurs, make sure you are using Java 8.  You can also run run the co
 
 The main migrations, written in pure SQL, can be found in `src/main/resources/db/migration`.
 
-The test migrations can be found `src/test/resources/db/migration`.
+The test migrations can be found in`src/test/resources/db/migration`.
+
+Please be sure to read [the documentation on SQL-based migrations](https://flywaydb.org/documentation/migration/sql).
